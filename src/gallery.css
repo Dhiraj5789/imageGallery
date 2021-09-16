@@ -50,7 +50,7 @@
 .model img{
     width: auto;
     max-width: 80%;
-    height: auto;
+    height:inherit;
     display: block;
     line-height:0;
     box-sizing: border-box;
